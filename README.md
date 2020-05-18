@@ -1,4 +1,3 @@
 Second part
 
-Linear Regression
-LLogistic Regression
+Linear Regression, and Logistic Regression
